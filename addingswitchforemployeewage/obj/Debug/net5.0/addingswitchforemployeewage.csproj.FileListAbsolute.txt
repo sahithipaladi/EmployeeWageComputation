@@ -1,0 +1,16 @@
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.exe
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.deps.json
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.dll
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\ref\addingswitchforemployeewage.dll
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\bin\Debug\net5.0\addingswitchforemployeewage.pdb
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.dll
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\ref\addingswitchforemployeewage.dll
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.pdb
+C:\Users\Sahithi.P\source\repos\addingswitchforemployeewage\addingswitchforemployeewage\obj\Debug\net5.0\addingswitchforemployeewage.genruntimeconfig.cache
