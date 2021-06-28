@@ -1,0 +1,16 @@
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.exe
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.deps.json
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.dll
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\ref\checktheemployeeparttime.dll
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\bin\Debug\net5.0\checktheemployeeparttime.pdb
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.dll
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\ref\checktheemployeeparttime.dll
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.pdb
+C:\Users\Sahithi.P\source\repos\checktheemployeeparttime\checktheemployeeparttime\obj\Debug\net5.0\checktheemployeeparttime.genruntimeconfig.cache
