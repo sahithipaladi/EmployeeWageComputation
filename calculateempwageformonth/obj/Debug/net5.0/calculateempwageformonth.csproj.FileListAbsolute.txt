@@ -1,0 +1,16 @@
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.exe
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.deps.json
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.dll
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\ref\calculateempwageformonth.dll
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\bin\Debug\net5.0\calculateempwageformonth.pdb
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.dll
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\ref\calculateempwageformonth.dll
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.pdb
+C:\Users\Sahithi.P\source\repos\calculateempwageformonth\calculateempwageformonth\obj\Debug\net5.0\calculateempwageformonth.genruntimeconfig.cache
