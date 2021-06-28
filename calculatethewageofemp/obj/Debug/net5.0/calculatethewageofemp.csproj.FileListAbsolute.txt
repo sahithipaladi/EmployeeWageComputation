@@ -1,0 +1,16 @@
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.exe
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.deps.json
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.dll
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\ref\calculatethewageofemp.dll
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\bin\Debug\net5.0\calculatethewageofemp.pdb
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.dll
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\ref\calculatethewageofemp.dll
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.pdb
+C:\Users\Sahithi.P\source\repos\calculatethewageofemp\calculatethewageofemp\obj\Debug\net5.0\calculatethewageofemp.genruntimeconfig.cache
