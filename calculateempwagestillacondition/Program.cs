@@ -4,17 +4,18 @@ namespace calculateempwagestillacondition
 {
     class Program
     {
-        static void Main(string[] args)
+        public const int Full_Time = 1;
+        public const int Part_Time = 2;
+        public int MAX_Working_Days = 5;
+        public int MAX_Working_Hrs = 8;
+        public const int Emp_rate_per_Hour = 20;
+         public   void   ComputeWage()
         {
-            const int Full_Time = 1;
-            const int Part_Time = 2;
+           
             int empHours = 0;
             int empWage = 0;
             int workingHrs = 0;
             int totalWage = 0;
-            int MAX_Working_Days = 5;
-            int MAX_Working_Hrs = 8;
-            const int Emp_rate_per_Hour = 20;
             int Working_Days = 2;
             Random random = new Random();
             while (Working_Days <= MAX_Working_Days && workingHrs <= MAX_Working_Hrs)
@@ -36,13 +37,22 @@ namespace calculateempwagestillacondition
                 empWage = Emp_rate_per_Hour * empHours;
                 workingHrs += empHours;
                 totalWage += empWage;
-                Working_Days++;
+                if (empInput !=0)
+                {
+                    Working_Days++;
+                }
+             
 
 
             }
-            Console.WriteLine("workingHrs =" + workingHrs + "Working_Days =" + Working_Days);
-            Console.WriteLine("Employee Wage for " + MAX_Working_Days + "days = " + totalWage);
+            Console.WriteLine("workingHrs = {0} working days = {1} ", workingHrs , Working_Days);
+            Console.WriteLine("Employee Wage for {0} days = {1} " , MAX_Working_Days , totalWage);
 
+        }
+           public  void Main(string[] args)
+        {
+            ComputeWage();
+            Console.Read();
         }
     }
 }
