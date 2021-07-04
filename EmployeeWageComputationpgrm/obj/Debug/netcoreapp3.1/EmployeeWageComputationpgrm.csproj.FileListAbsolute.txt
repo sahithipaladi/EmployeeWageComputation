@@ -1,0 +1,13 @@
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.exe
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.deps.json
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.dll
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\bin\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.pdb
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.dll
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.pdb
+C:\Users\Sahithi.P\source\repos\EmployeeWageComputationpgrm\EmployeeWageComputationpgrm\obj\Debug\netcoreapp3.1\EmployeeWageComputationpgrm.genruntimeconfig.cache
