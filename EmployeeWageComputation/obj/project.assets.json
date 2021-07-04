@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sahithi.P\\source\\repos\\calculateempwagestillacondition\\calculateempwagestillacondition\\calculateempwagestillacondition.csproj",
-      "projectName": "calculateempwagestillacondition",
-      "projectPath": "C:\\Users\\Sahithi.P\\source\\repos\\calculateempwagestillacondition\\calculateempwagestillacondition\\calculateempwagestillacondition.csproj",
+      "projectUniqueName": "C:\\Users\\Sahithi.P\\source\\repos\\calculateempwagestillacondition\\calculateempwagestillacondition\\EmployeeWageComputation.csproj",
+      "projectName": "EmployeeWageComputation",
+      "projectPath": "C:\\Users\\Sahithi.P\\source\\repos\\calculateempwagestillacondition\\calculateempwagestillacondition\\EmployeeWageComputation.csproj",
       "packagesPath": "C:\\Users\\Sahithi.P\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Sahithi.P\\source\\repos\\calculateempwagestillacondition\\calculateempwagestillacondition\\obj\\",
       "projectStyle": "PackageReference",

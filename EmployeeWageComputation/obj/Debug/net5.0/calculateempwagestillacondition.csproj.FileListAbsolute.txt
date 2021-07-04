@@ -1,0 +1,16 @@
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.csproj.AssemblyReference.cache
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.AssemblyInfoInputs.cache
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.AssemblyInfo.cs
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.csproj.CoreCompileInputs.cache
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.exe
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.deps.json
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.runtimeconfig.json
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.runtimeconfig.dev.json
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.dll
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\ref\calculateempwagestillacondition.dll
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\bin\Debug\net5.0\calculateempwagestillacondition.pdb
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.dll
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\ref\calculateempwagestillacondition.dll
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.pdb
+C:\Users\Sahithi.P\source\repos\calculateempwagestillacondition\calculateempwagestillacondition\obj\Debug\net5.0\calculateempwagestillacondition.genruntimeconfig.cache
